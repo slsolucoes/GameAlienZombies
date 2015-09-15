@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d74fc6b460447514285bda797d224b84
+timeCreated: 1440715163
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bala: {fileID: 446476, guid: 07bdd76583c294c418dd99d0f4f2c7d9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -46,9 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Colider.cs" />
-     <Compile Include="Assets\Control.cs" />
+     <Compile Include="Assets\ArmaAlien.cs" />
+     <Compile Include="Assets\ArmaZombie.cs" />
      <Compile Include="Assets\ControlAlien.cs" />
+     <Compile Include="Assets\ControlZombie.cs" />
+     <Compile Include="Assets\atBala.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

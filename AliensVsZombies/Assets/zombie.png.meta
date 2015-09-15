@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 27dbc40cfbd001f41a921cb114daf035
+timeCreated: 1440718790
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zombie_8
+    21300002: zombie_9
+    21300004: zombie_10
+    21300006: zombie_11
+    21300008: zombie_12
+    21300010: zombie_13
+    21300012: zombie_14
+    21300014: zombie_15
+    21300016: zombie_77
+    21300018: zombie_78
+    21300020: zombie_79
+    21300022: zombie_98
+    21300024: zombie_100
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: zombie_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 962
+        width: 40
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 964
+        width: 45
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_10
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 963
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 963
+        width: 51
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_12
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 963
+        width: 45
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 964
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_14
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 963
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_15
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 963
+        width: 65
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_77
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 460
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_78
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 460
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_79
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 460
+        width: 94
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_98
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 165
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zombie_100
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 168
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
